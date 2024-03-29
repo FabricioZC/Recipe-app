@@ -2,7 +2,7 @@
 Recipe App
 
 ## About The App
-This project on GitHub is an application made in React that uses TheMealDB API. It's built with practical React concepts like useState and useEffect for a seamless user experience. The interface is styled with CSS for a clean and attractive design
+This project is an application made in React that uses TheMealDB API. It's built with practical React concepts like useState and useEffect for a seamless user experience. The interface is styled with CSS for a clean and attractive design
 
 ## Technologies
 I used HTML, CSS, React
